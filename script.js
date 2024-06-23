@@ -2,14 +2,14 @@ const userInput = document.getElementById('text-input');
 const checkPalindromeBtn = document.getElementById('check-btn');
 const resultDiv = document.getElementById('result');
 
-const checkForPalindrome = input => {
+const checkForPalindrome = (input) => {
   const originalInput = input; // Store for later output
 
-  if (input === '') {
-    alert('Please input a value');
-    return;
-  }
-  
+//   if (input === '') {
+//     alert('Please input a value');
+//     return;
+//   }
+
   // Remove the previous result
   resultDiv.replaceChildren();
 
