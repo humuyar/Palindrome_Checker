@@ -86,3 +86,8 @@ body {
   vertical-align: middle;
   text-align: center;
 }
+
+label {
+  color: #0a0a23;
+  margin-bottom: 20px;
+}
