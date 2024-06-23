@@ -28,7 +28,7 @@ body {
 }
 
 .palindrome-div {
-  width: min(100vw, 450px);
+  min-width: 100vw, 450px;
   min-height: 100px;
   border-radius: 20px;
   display: flex;
