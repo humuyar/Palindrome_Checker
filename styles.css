@@ -90,7 +90,7 @@ body {
 }
 
 label {
-  color: #000000;
+  color: #000;
 }
 
 .user-input {
@@ -111,9 +111,9 @@ label {
 }
 
 @media (max-width: 400px) {
-    .container {
-      margin: 10px;
-      position: relative;
-      display: contents;
-    }
+  .container {
+    margin: 10px;
+    position: relative;
+    display: contents;
+  }
 }
