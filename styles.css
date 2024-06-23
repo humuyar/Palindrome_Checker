@@ -64,7 +64,7 @@ body {
 .palindrome-input:focus {
   border-bottom: 3px solid #5a01a7;
 }
-   
+
 .palindrome-input::placeholder {
   text-align: center;
 }
