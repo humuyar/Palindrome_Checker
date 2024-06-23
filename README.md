@@ -39,8 +39,7 @@ I learn a lot things in this project special take a input from user and show the
 ```
 
 ## Demo 📸
-
-![Project Demo](access/Screenshot%20(197).png)
+life demo link [https://humuyar.github.io/project_palindrome_checker/]
 
 ## Technologies Used 🛠️
 - HTML
