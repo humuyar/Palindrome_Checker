@@ -4,6 +4,11 @@ const resultDiv = document.getElementById('result');
 
 const checkForPalindrome = (input) => {
   const originalInput = input; // Store for later output
+  if (input === '') {
+    alert('Please input a value');
+    return;
+  }
+
   // Remove the previous result
   resultDiv.replaceChildren();
 
