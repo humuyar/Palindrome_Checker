@@ -60,7 +60,7 @@ body {
   border: none;
   border-bottom: 2px solid #5a01a7;
 }
-  
+
 .palindrome-input:focus {
   border-bottom: 3px solid #5a01a7;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .palindrome-definition-div {
-  width: min(100vw, 450px);
+  width: 100%;
   font-size: 1.3rem;
   min-height: 140px;
   background-color: #00471b;
@@ -81,7 +81,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-  
+
 .palindrome-definition {
   vertical-align: middle;
   text-align: center;
